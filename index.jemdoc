@@ -1,6 +1,5 @@
 # jemdoc: menu{MENU}{index.html}
 # jemdoc: nofooter
-# jemdoc: analytics{G-ERZCH83E1G}
 \n
 = Damu Ding (丁大牧)
 
@@ -8,25 +7,25 @@
 {}{img_left}{./Damu.jpeg}{photo}{250px}{}{}
 
 {{
-<img src="img/logo-bytedance.jpeg" alt="bytedance" height="100px" align="left" /></a>
+<img src="img/cisco.png" alt="cisco" height="170px" align="left" /></a>
 }}
 
 \n 
 \n
 \n
 
-= [https://www.bytedance.com/en/ ByteDance Inc., US] 
+= [https://www.cisco.com Cisco Inc., US] 
 
-- Virtual Network - General technology R&D
+- Silicon One
 \n
 
-Senior Software Development Engineer & Researcher 
+P4 Networking Software Engineer 
 \n
 
-Address: 601 108th Ave NE \#1580, Bellevue, WA 98004\n
+Address: 725 Alder Dr, Milpitas, CA 95035\n
 
 Email:\n 
-[damuding@bytedance.com] \n
+[damding@cisco.com] \n
 
 {{
 <a href="https://orcid.org/0000-0001-9692-7756"><img src="img/orcid.png" alt="orcid" height="32px" style="vertical-align:middle" /></a>
@@ -39,9 +38,7 @@ Email:\n
 ~~~
 
 == Biography
-Damu Ding is a Senior Software Development Engineer & Researcher at ByteDance Inc., Seattle, US. He received the B.Sc. degree in Telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in Telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy. His Ph.D. research activities were mostly carried out in Fondazione Bruno Kessler (FBK) Research Center, Trento, Italy. His Ph.D. supervisor was Dr. [https://www.linkedin.com/in/domenicosiracusa/?originalSubdomain=it Domenico Siracusa], and co-superviosrs were Dr. [https://marcosavi.altervista.org/ Marco Savi] and Dr. Federico Pederzolli. 
-Prior to joining ByteDance Inc., he was a postdoctoral research assistant at the University of Oxford, UK, under the supervision of Prof. [https://eng.ox.ac.uk/computing/people/noa/ Noa Zilberman].
-\n
+Damu Ding is a P4 Networking Software Engineer at Cisco Silicon One, Milpitas, CA. He received the B.Sc. degree in Telecommunications engineering from the Politecnico di Torino, Italy, the M.Sc. degree in Telecommunications engineering from the University of Trento, Italy, and the Ph.D. degree in Electronics, Telecommunications and Information Technologies Engineering from the University of Bologna, Italy. His Ph.D. research activities were mostly carried out in Fondazione Bruno Kessler (FBK) Research Center, Trento, Italy. Prior to joining Cisco Inc., he was a postdoctoral research assistant at the University of Oxford, UK and a Software Development Engineer & Researcher at ByteDance Inc., USA.\n
 
 
 == Research interests
@@ -53,6 +50,7 @@ Prior to joining ByteDance Inc., he was a postdoctoral research assistant at the
 
 ~~~
 {Recent News}
+- \[01\/2026\] I joined Cisco Silicon One.
 - \[07\/2025\] "Net-P4ct: Enhanced WAN Bandwidth Fair Sharing Using P4 Programmable Switches" has been accepted for the publication at NSDI 2026.  
 - \[04\/2024\] I joined ByteDance Inc. (Seattle, US) as a Senior Software Development Engineer & Researcher. 
 

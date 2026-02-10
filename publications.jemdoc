@@ -26,6 +26,11 @@ Latest Developments for Security Management of Networks and Services
 
 
 == Conference 
+== 2026
+- \[[https://www.usenix.org/conference/nsdi26 NSDI 2026]] Haoran Chen and Mingwei Cui, Yihan Zou, Yihang Miao, Suhan Jiang, *Damu Ding*, Lirong Lai, Ming Gao, Rui Jiang, Shengyuan He, Anjian Chen, Jiaming Shi, Junjie Wan, Yandong Duan, Ruomin Fang, Hongyu Wu, Yongping Tang, Qiao Kang, Guangrui Wu and Xiyun Xu, "Net-P4ct: Enhanced WAN Bandwidth Fair Sharing Using P4 Programmable Switches"\n
+in USENIX Symposium on Networked Systems Design and Implementation (NSDI 2026), 2026.
+(Acceptance ratio = 50/207=24.2\%)
+
 == 2024
 - \[[https://infocom2024.ieee-infocom.org/ INFOCOM 2024]] *D.Ding*, "CARBINE: Exploring Additional Properties of HyperLogLog for Secure and Robust Flow Cardinality Estimation"\n
 in IEEE International Conference on Computer Communications (INFOCOM 2024), 2024. 
